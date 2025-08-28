@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"cmake.sourceDirectory": "D:/vs code/Good Imports/Raylib-CPP-Starter-Template-for-VSCODE-V2-main/Raylib-CPP-Starter-Template-for-VSCODE-V2-main/vcpkg/ports/7zip",
+	"C_Cpp.errorSquiggles": "enabled"
+}

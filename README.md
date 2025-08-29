@@ -12,3 +12,5 @@
 
 <h2>Screenshots👇: </h2>
 <img width="497" height="642" alt="image" src="https://github.com/user-attachments/assets/32014b67-b2dc-45d8-9b1d-c387d40787c9" />
+https://github.com/user-attachments/assets/d46ecf14-3b3f-4ccd-b34e-a293e35feee1
+
